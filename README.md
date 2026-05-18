@@ -75,4 +75,4 @@ All visual assets and marketing collateral were custom-developed to construct a 
 * **Digital Communication Channels:** [Instagram Media Hub](https://www.instagram.com/_chauffher/) | [Facebook Community Page](https://www.facebook.com/profile.php?id=61569293715709&mibextid=LQQJ4d&rdid=QY8NN9yhLpard8gA&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15XF8F7krv%2F%3Fmibextid%3DLQQJ4d)
 
 ***
-*Developed for the IT in Business Lab Project | National University of Computer and Emerging Sciences (FAST-NU), Lahore Campus.*
+*Developed for the course IT in Business Lab - Final Project | National University of Computer and Emerging Sciences (FAST-NU), Lahore Campus.*
